@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Addition Program")
+st.title("Subtraction Program")
 
 num1 = st.number_input("Enter first number")
 num2 = st.number_input("Enter second number")
